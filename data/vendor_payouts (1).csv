@@ -1,0 +1,16 @@
+payout_date,vendor_name,amount,payment_method,category,notes
+2025-06-01,No Vendors,0.00,N/A,N/A,No vendor payments
+2025-06-02,No Vendors,0.00,N/A,N/A,No vendor payments
+2025-06-03,Ben E Keith,1349.04,Check,Food Distributor,Food/Grocery supplier
+2025-06-03,Jack Hillard,98.86,Check,Individual/Service,Service provider
+2025-06-03,Crackling Dist,76.80,Check,Distributor,Specialty distributor
+2025-06-04,FritoLay,270.20,Check,Snack Distributor,Chips and snacks
+2025-06-04,Sam's Club,608.72,Owner Credit Card,Wholesale,Bulk purchasing
+2025-06-04,Aldi,85.27,Owner Credit Card,Retail,Grocery items
+2025-06-05,No Vendors,0.00,N/A,N/A,No vendor payments
+2025-06-06,Andrews Beer,5323.50,Check,Beverage Distributor,Beer and alcohol
+2025-06-06,FritoLay,328.90,Check,Snack Distributor,Chips and snacks
+2025-06-06,Bimbo Takis,96.00,Check,Snack Distributor,Specialty snacks
+2025-06-06,Costco,132.00,Owner Credit Card,Wholesale,Bulk purchasing
+2025-06-06,Reddy Ice,132.00,Check,Ice Supplier,Ice products
+2025-06-07,Latino Factor,216.30,Check,Distributor,Specialty products
