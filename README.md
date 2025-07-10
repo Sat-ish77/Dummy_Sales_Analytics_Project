@@ -9,18 +9,7 @@ Built an end-to-end data pipeline to analyze store sales data using Azure servic
 - **ETL**: Azure Data Factory
 - **Database**: Azure SQL Database  
 - **Visualization**: Power BI
-
-## Project Structure
-├── sql-scripts/
-│   ├── tables.sql          # Database schema
-│   └── views.sql           # Analytics views
-├── data/
-│   ├── daily_sales.csv     # Sample sales data
-│   └── vendor_payouts.csv  # Vendor payment data
-├── screenshots/
-│   └── dashboard and pipeline images
-└── power-bi/
-└── Dashboard file
+- 
 ## Key Features
 - Automated daily data ingestion
 - Data quality checks
